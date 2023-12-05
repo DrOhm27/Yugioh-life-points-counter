@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yugioh Life Points Counter", "Yugioh Life Points Counter\Yugioh Life Points Counter.csproj", "{A0992E3B-C632-43DB-8D4F-A39635085865}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0992E3B-C632-43DB-8D4F-A39635085865}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0992E3B-C632-43DB-8D4F-A39635085865}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0992E3B-C632-43DB-8D4F-A39635085865}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0992E3B-C632-43DB-8D4F-A39635085865}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4D1CF296-4D0C-46B6-A0A8-38D50431ACDD}
+	EndGlobalSection
+EndGlobal

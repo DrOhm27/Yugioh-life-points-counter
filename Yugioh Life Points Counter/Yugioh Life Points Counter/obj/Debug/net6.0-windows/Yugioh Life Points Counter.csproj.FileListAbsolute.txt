@@ -1,0 +1,18 @@
+C:\Users\EM\source\repos\Yugioh Life Points Counter\Yugioh Life Points Counter\bin\Debug\net6.0-windows\Yugioh Life Points Counter.exe
+C:\Users\EM\source\repos\Yugioh Life Points Counter\Yugioh Life Points Counter\bin\Debug\net6.0-windows\Yugioh Life Points Counter.deps.json
+C:\Users\EM\source\repos\Yugioh Life Points Counter\Yugioh Life Points Counter\bin\Debug\net6.0-windows\Yugioh Life Points Counter.runtimeconfig.json
+C:\Users\EM\source\repos\Yugioh Life Points Counter\Yugioh Life Points Counter\bin\Debug\net6.0-windows\Yugioh Life Points Counter.dll
+C:\Users\EM\source\repos\Yugioh Life Points Counter\Yugioh Life Points Counter\bin\Debug\net6.0-windows\Yugioh Life Points Counter.pdb
+C:\Users\EM\source\repos\Yugioh Life Points Counter\Yugioh Life Points Counter\obj\Debug\net6.0-windows\Yugioh Life Points Counter.csproj.AssemblyReference.cache
+C:\Users\EM\source\repos\Yugioh Life Points Counter\Yugioh Life Points Counter\obj\Debug\net6.0-windows\Yugioh_Life_Points_Counter.Form1.resources
+C:\Users\EM\source\repos\Yugioh Life Points Counter\Yugioh Life Points Counter\obj\Debug\net6.0-windows\Yugioh_Life_Points_Counter.Properties.Resources.resources
+C:\Users\EM\source\repos\Yugioh Life Points Counter\Yugioh Life Points Counter\obj\Debug\net6.0-windows\Yugioh Life Points Counter.csproj.GenerateResource.cache
+C:\Users\EM\source\repos\Yugioh Life Points Counter\Yugioh Life Points Counter\obj\Debug\net6.0-windows\Yugioh Life Points Counter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EM\source\repos\Yugioh Life Points Counter\Yugioh Life Points Counter\obj\Debug\net6.0-windows\Yugioh Life Points Counter.AssemblyInfoInputs.cache
+C:\Users\EM\source\repos\Yugioh Life Points Counter\Yugioh Life Points Counter\obj\Debug\net6.0-windows\Yugioh Life Points Counter.AssemblyInfo.cs
+C:\Users\EM\source\repos\Yugioh Life Points Counter\Yugioh Life Points Counter\obj\Debug\net6.0-windows\Yugioh Life Points Counter.csproj.CoreCompileInputs.cache
+C:\Users\EM\source\repos\Yugioh Life Points Counter\Yugioh Life Points Counter\obj\Debug\net6.0-windows\Yugioh Life Points Counter.dll
+C:\Users\EM\source\repos\Yugioh Life Points Counter\Yugioh Life Points Counter\obj\Debug\net6.0-windows\refint\Yugioh Life Points Counter.dll
+C:\Users\EM\source\repos\Yugioh Life Points Counter\Yugioh Life Points Counter\obj\Debug\net6.0-windows\Yugioh Life Points Counter.pdb
+C:\Users\EM\source\repos\Yugioh Life Points Counter\Yugioh Life Points Counter\obj\Debug\net6.0-windows\Yugioh Life Points Counter.genruntimeconfig.cache
+C:\Users\EM\source\repos\Yugioh Life Points Counter\Yugioh Life Points Counter\obj\Debug\net6.0-windows\ref\Yugioh Life Points Counter.dll
